@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infinite-YouTube-Clone/static/css/main.785542f5.css",
+    "main.js": "/Infinite-YouTube-Clone/static/js/main.4a553638.js",
+    "index.html": "/Infinite-YouTube-Clone/index.html",
+    "main.785542f5.css.map": "/Infinite-YouTube-Clone/static/css/main.785542f5.css.map",
+    "main.4a553638.js.map": "/Infinite-YouTube-Clone/static/js/main.4a553638.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.785542f5.css",
+    "static/js/main.4a553638.js"
+  ]
+}
